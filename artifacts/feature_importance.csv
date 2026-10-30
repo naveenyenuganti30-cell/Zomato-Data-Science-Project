@@ -1,0 +1,77 @@
+Feature,Importance
+log_votes,0.29672024722178
+votes,0.2875674298226067
+cost_for_two,0.034440548432437094
+log_cost,0.03351780876643153
+is_north_indian,0.030927980731768587
+book_table,0.02588168069329978
+num_cuisines,0.02509014146053102
+is_chinese,0.01983755798304241
+is_desserts,0.01822207246788669
+type_Unknown,0.010787095782338541
+online_order,0.010377905005460071
+is_biryani,0.009315515665701359
+location_grouped_Marathahalli,0.009217931755909074
+is_fast_food,0.008903079776393055
+location_grouped_Indiranagar,0.00798424980866372
+rest_type_grouped_Quick Bites,0.007957775474853363
+rest_type_grouped_Casual Dining,0.007441070903684754
+is_south_indian,0.006059961148974396
+location_grouped_Bellandur,0.006014935571867796
+location_grouped_Sarjapur Road,0.00592494299998909
+location_grouped_Others,0.005778409146449936
+location_grouped_Bannerghatta Road,0.005755358014872392
+location_grouped_Brookefield,0.005384256175580248
+location_grouped_Whitefield,0.005275197392057718
+is_beverages,0.0051383045320234745
+location_grouped_Koramangala 5th Block,0.005005900584918146
+location_grouped_Electronic City,0.004891452377289904
+is_continental,0.004844266571998724
+rest_type_grouped_Others,0.0045347241509943225
+location_grouped_Domlur,0.003872933679359483
+is_cafe,0.003604143682404378
+rest_type_grouped_Food Court,0.0035946329213137167
+location_grouped_Brigade Road,0.0035620504523066463
+location_grouped_Jayanagar,0.003557620634141825
+is_italian,0.003507591178696452
+"rest_type_grouped_Takeaway, Delivery",0.0033834261458309325
+rest_type_grouped_Delivery,0.0033652865264815826
+location_grouped_MG Road,0.003296391984397802
+location_grouped_HSR,0.003267655830600733
+location_grouped_JP Nagar,0.003249388438170041
+location_grouped_Koramangala 1st Block,0.0028093882278332183
+location_grouped_Koramangala 6th Block,0.0027889026007873233
+rest_type_grouped_Cafe,0.0025534904610210337
+location_grouped_Kalyan Nagar,0.0025183657776191404
+rest_type_grouped_Lounge,0.0024358580388837126
+rest_type_grouped_Pub,0.0023571312698433483
+location_grouped_Koramangala 7th Block,0.002329410046233531
+location_grouped_Ulsoor,0.0022592312425751882
+location_grouped_Residency Road,0.0022516588202814132
+location_grouped_New BEL Road,0.001937990395767075
+location_grouped_Malleshwaram,0.0019161755742867488
+location_grouped_Koramangala 4th Block,0.0017461278101765548
+location_grouped_Banaswadi,0.0017407872341036663
+"rest_type_grouped_Casual Dining, Bar",0.0017172219829836566
+location_grouped_Richmond Road,0.001715304471368844
+rest_type_grouped_Dessert Parlor,0.0017131293796512849
+location_grouped_Rajajinagar,0.0016253154498127877
+location_grouped_Banashankari,0.0016057232504093522
+location_grouped_Church Street,0.0015019570808463055
+location_grouped_Old Airport Road,0.0013459134069690269
+location_grouped_Basavanagudi,0.0013091293921415335
+rest_type_grouped_Bar,0.0013041140354200305
+type_Delivery,0.001237306091852076
+location_grouped_Frazer Town,0.0012271768722613337
+location_grouped_Kammanahalli,0.0011065571056823181
+type_Dine-out,0.0010150466727192708
+location_grouped_Lavelle Road,0.0009513294592661741
+type_Desserts,0.0009463867744882361
+location_grouped_Cunningham Road,0.0008799511465052559
+is_fine_dining,0.000602837347361975
+"rest_type_grouped_Bar, Casual Dining",0.0005186370721173269
+rest_type_grouped_Beverage Shop,0.00044161692031785164
+type_Cafes,0.00024707923597170966
+rest_type_grouped_Fine Dining,0.00015020360987516232
+type_Pubs and bars,7.296518233000535e-05
+type_Drinks & nightlife,6.165866672902431e-05

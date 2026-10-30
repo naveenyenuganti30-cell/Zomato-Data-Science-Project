@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "zomatods"
+version = "1.0.0"
+description = "End-to-End Data Science Project on Zomato Bangalore Restaurant Dataset"
+authors = [{ name = "Yenuganti Naveen", email = "naveenyenuganti30@gmail.com" }]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "matplotlib",
+    "seaborn",
+    "joblib"
+]

@@ -1,0 +1,6 @@
+Model,R2_Score,RMSE,MAE
+Random Forest,0.7578,0.2221,0.1515
+HistGradientBoosting,0.6184,0.2787,0.1965
+Decision Tree,0.5977,0.2862,0.1899
+Linear Regression,0.4745,0.3271,0.2358
+Ridge Regression,0.4745,0.3271,0.2358
